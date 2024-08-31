@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Swaroop Sridhar</h1>
-<h3 align="center">A aspiring Software Developer with an interest in Machine Learning</h3>
+<h3 align="center">An Aspiring Software Developer/Engineer with an interest in Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridhs21&label=Profile%20views&color=0e75b6&style=flat" alt="sridhs21" /> </p>
 
