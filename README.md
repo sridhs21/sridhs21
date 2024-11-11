@@ -12,6 +12,9 @@ An Aspiring Software Developer/Engineer with an interest in Machine Learning. <b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sridhs21&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sridhs21&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sridhs21&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sridhs21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
