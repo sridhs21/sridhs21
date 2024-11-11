@@ -1,5 +1,5 @@
 # 💫 About Me:
-An Aspiring Software Developer/Engineer with an interest in Machine Learning. <br>I’m currently working on Crop Disease Detection ML Model.<br>I'm currently learned about machine learning implementation with pytorch and optimization techniques.<br>Big dog lover.
+I'm an Aspiring Software Developer/Engineer interested in Machine Learning.<br>I'm currently learning about implementing machine learning with pytorch and optimization techniques. <br>I’m currently working on a Crop Disease Detection ML Model and a Parking Availability App<br>. I am also a big dog lover.
 
 
 ## 🌐 Socials:
