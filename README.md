@@ -2,9 +2,11 @@
 
 Computer Science and Information Technology student at Rensselaer Polytechnic Institute with a concentration in Machine Learning. Currently engaged in research on magnetic reconnection classification for NASA Heliophysics and developing applications in computer vision, web development, and scientific simulation. I enjoy applying machine learning techniques to solve real-world problems in space science, healthcare, and software engineering.
 
-## Socials
+## Current Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaroop-sridhar21) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white)](https://sridhs21.github.io) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28245048) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SwaroopSridhar-pu4to)
+**Magnetic Reconnection Classifier** - Developing a CNN-based system to detect rare magnetic reconnection events in space weather simulation data for NASA Heliophysics Summer School using PyTorch and NVIDIA H100 GPUs
+
+**PartiSim** - Building an interactive 3D particle physics simulation that visualizes atomic behavior, subatomic particles, and quantum orbitals using OpenGL and advanced physics modeling
 
 ## Tech Stack
 
@@ -26,11 +28,9 @@ Computer Science and Information Technology student at Rensselaer Polytechnic In
 ### Additional Tools
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Gkeyll](https://img.shields.io/badge/Gkeyll-%23FF6B35.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
 
-## Current Projects
+## Socials
 
-**Magnetic Reconnection Classifier** - Developing a CNN-based system to detect rare magnetic reconnection events in space weather simulation data for NASA Heliophysics Summer School using PyTorch and NVIDIA H100 GPUs
-
-**PartiSim** - Building an interactive 3D particle physics simulation that visualizes atomic behavior, subatomic particles, and quantum orbitals using OpenGL and advanced physics modeling
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaroop-sridhar21) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white)](https://sridhs21.github.io) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28245048) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SwaroopSridhar-pu4to)
 
 ## GitHub Stats
 
