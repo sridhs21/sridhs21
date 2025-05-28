@@ -1,6 +1,6 @@
 # About Me
 
-Computer Science and Information Technology student at Rensselaer Polytechnic Institute with a concentration in Machine Learning. Currently engaged in cutting-edge research on magnetic reconnection classification for NASA Heliophysics and developing innovative applications in computer vision, web development, and scientific simulation. Passionate about applying machine learning techniques to solve real-world problems in space science, healthcare, and software engineering.
+Computer Science and Information Technology student at Rensselaer Polytechnic Institute with a concentration in Machine Learning. Currently engaged in research on magnetic reconnection classification for NASA Heliophysics and developing applications in computer vision, web development, and scientific simulation. I enjoy applying machine learning techniques to solve real-world problems in space science, healthcare, and software engineering.
 
 ## Socials
 
@@ -32,16 +32,15 @@ Computer Science and Information Technology student at Rensselaer Polytechnic In
 
 **PartiSim** - Building an interactive 3D particle physics simulation that visualizes atomic behavior, subatomic particles, and quantum orbitals using OpenGL and advanced physics modeling
 
-**Personal Portfolio Website** - Creating a comprehensive portfolio showcasing projects and research using React.js with modern web development practices
-
 ## GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sridhs21&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sridhs21&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sridhs21&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sridhs21&theme=default&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sridhs21&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sridhs21&theme=algolia&hide_border=true)
 
 </div>
 
@@ -49,7 +48,7 @@ Computer Science and Information Technology student at Rensselaer Polytechnic In
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=sridhs21&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sridhs21&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
