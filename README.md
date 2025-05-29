@@ -32,6 +32,13 @@ Computer Science and Information Technology student at Rensselaer Polytechnic In
 ### Additional Tools
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Gkeyll](https://img.shields.io/badge/Gkeyll-%23FF6B35.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
 
+## Fun Facts
+
+- 🚶‍♂️ I love taking walks — they help me clear my mind, spark new ideas, and reset my focus.
+- 🏞️ Hiking is one of my favorite ways to unwind and connect with nature.
+- 🐶 I wrestle with my dog regularly — it’s chaotic, hilarious, and the best kind of stress relief.
+- 📚 I’m obsessed with learning. If I’m not learning, I feel like I’m wasting away. I realized this during a long break with too much free time — never again!
+
 ## GitHub Stats
 
 <div align="center">
@@ -59,10 +66,3 @@ Computer Science and Information Technology student at Rensselaer Polytechnic In
 [![](https://visitcount.itsvg.in/api?id=sridhs21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-## Fun Facts
-
-- 🚶‍♂️ I love taking walks — they help me clear my mind, spark new ideas, and reset my focus.
-- 🏞️ Hiking is one of my favorite ways to unwind and connect with nature.
-- 🐶 I wrestle with my dog regularly — it’s chaotic, hilarious, and the best kind of stress relief.
-- 📚 I’m obsessed with learning. If I’m not learning, I feel like I’m wasting away. I realized this during a long break with too much free time — never again!
